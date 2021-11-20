@@ -1,0 +1,93 @@
+.fon{
+	position: absolute;
+	background-image: url(inicio.jpg);
+	background-size: cover;
+
+}
+.d1{
+	position: absolute;
+	top:20px;
+	left:20px ;
+	height:300px ;
+	width:300px ;
+	background:#D0CBC7 ;
+	font-size:200% ;
+} 
+
+.d2{
+	position: absolute;
+	box-sizing: border-box;
+	top: 15px;
+	left: 1190px ;
+	height:50px ;
+	width:120px ;
+	background:#999796;
+	padding-top:15px;
+	padding-left:5px;
+}
+
+.d3{
+position: absolute;
+box-sizing: border-box;
+	top:80px;
+	left:540px ;
+	height:150px ;
+	width:300px ;
+	background:#D0CBC7 ;
+	font-size:200% ;
+	padding-left:px;
+}
+
+.fon2{
+	position: absolute;
+	background-image: url(la.jpg);
+	background-size: cover;
+
+}
+
+.d5{
+	position: absolute;
+	top:380px;
+	left:20px ;
+	height:250px ;
+	width:600px ;
+	background:#577AFB;
+	font-size:200% ;
+} 
+.d6{
+	position: absolute;
+	box-sizing: border-box;
+	top:400px;
+	left:700px ;
+	height:50px ;
+	width:90px ;
+	background:#3661FE;
+	font-size:150% ;
+	padding-top:10px;
+	padding-left:30px;
+}
+
+.d7{
+	position: absolute;
+	box-sizing: border-box;
+	top:550px;
+	left:700px ;
+	height:50px ;
+	width:90px ;
+	background:#3661FE;
+	font-size:150% ;
+	padding-top:10px;
+	padding-left:30px;
+}
+.d8{
+	position: absolute;
+	box-sizing: border-box;
+	top:20px;
+	left:20px ;
+	height:50px ;
+	width:90px ;
+	background:#FDFDFF;
+	font-size:150% ;
+	padding-top:10px;
+	padding-left:30px;
+}
